@@ -97,6 +97,10 @@ dist
 # FuseBox cache
 .fusebox/
 
+#ssh
+TelegramBot
+TelegramBot.pub
+
 # DynamoDB Local files
 .dynamodb/
 
